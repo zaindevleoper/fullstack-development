@@ -1,0 +1,32 @@
+.flex-contr{
+	display: flex;
+	height:355px ;
+	width: 1366px ;
+	background: black;
+	margin-top:-23px ;
+	margin-left: -8px;
+}
+h1{
+	color:white;
+	text-align: center;
+	margin-top: -200px;
+	font-size: 2.7em;
+	font-family: "Roboto", sans-serif;
+
+
+
+
+	
+}
+.flex-yellow{
+	height:70px ;
+	width: 1366px ;
+	background: yellow;
+	display: flex;
+	margin-top:150px ;
+	margin-left:-8px ;
+	justify-content: space-around;
+}
+p{
+	font-size: 1.4em;
+}
